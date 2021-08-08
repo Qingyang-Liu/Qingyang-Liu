@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Qingyang-Liu
-- 👀 I’m interested in robotics and the application of AI technology in industry.
+- 👀 I’m interested in robotics and the application of AI technologies in industry.
 - 🌱 I’m now a software engineer and try to learn more in AI field.
 
 <!---
